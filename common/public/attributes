@@ -3,3 +3,5 @@ hal_attribute(lineage_camera_motor)
 # FOD
 hal_attribute(lineage_fod)
 
+# LiveDisplay
+hal_attribute(lineage_livedisplay)
